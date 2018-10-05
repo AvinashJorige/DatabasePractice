@@ -1,62 +1,7 @@
-[{
+{
 		"id": 1,
 		"first_name": "avinash",
 		"last_name": "jorige",
 		"password": "password",
 		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 2,
-		"first_name": "avinash 1",
-		"last_name": "jorige 1",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 3,
-		"first_name": "avinash 2",
-		"last_name": "jorige 2",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 4,
-		"first_name": "avinash 4",
-		"last_name": "jorige 4",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 5,
-		"first_name": "avinash 5",
-		"last_name": "jorige 5",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 6,
-		"first_name": "avinash 6",
-		"last_name": "jorige 6",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 7,
-		"first_name": "avinash 7",
-		"last_name": "jorige 7",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 8,
-		"first_name": "avinash 8",
-		"last_name": "jorige 8",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 9,
-		"first_name": "avinash 9",
-		"last_name": "jorige 9",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
-	}, {
-		"id": 10,
-		"first_name": "avinash 10",
-		"last_name": "jorige 10",
-		"password": "password1",
-		"email": "jo.avi.1990@gmail.com"
 	}
-]
